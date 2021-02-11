@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a34dbc92.chunk.css",
+    "main.js": "/static/js/main.cc41c554.chunk.js",
+    "main.js.map": "/static/js/main.cc41c554.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.410935ff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.410935ff.js.map",
+    "static/css/2.b275ccef.chunk.css": "/static/css/2.b275ccef.chunk.css",
+    "static/js/2.d24e8609.chunk.js": "/static/js/2.d24e8609.chunk.js",
+    "static/js/2.d24e8609.chunk.js.map": "/static/js/2.d24e8609.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b275ccef.chunk.css.map": "/static/css/2.b275ccef.chunk.css.map",
+    "static/css/main.a34dbc92.chunk.css.map": "/static/css/main.a34dbc92.chunk.css.map",
+    "static/js/2.d24e8609.chunk.js.LICENSE.txt": "/static/js/2.d24e8609.chunk.js.LICENSE.txt",
+    "static/media/01.c9db59da.jpg": "/static/media/01.c9db59da.jpg",
+    "static/media/02.beadb304.jpg": "/static/media/02.beadb304.jpg",
+    "static/media/03.f3a82f4d.jpg": "/static/media/03.f3a82f4d.jpg",
+    "static/media/11.999fbdb2.jpg": "/static/media/11.999fbdb2.jpg",
+    "static/media/PNG-01.166c1e33.png": "/static/media/PNG-01.166c1e33.png",
+    "static/media/about-us.d87b427f.jpg": "/static/media/about-us.d87b427f.jpg",
+    "static/media/donation1.cc62026e.jpg": "/static/media/donation1.cc62026e.jpg",
+    "static/media/donation4.901cae0a.jpg": "/static/media/donation4.901cae0a.jpg",
+    "static/media/logo2.f3bb89bb.jpg": "/static/media/logo2.f3bb89bb.jpg",
+    "static/media/news1.11830253.jpg": "/static/media/news1.11830253.jpg",
+    "static/media/ngo-1.147c780d.jpg": "/static/media/ngo-1.147c780d.jpg",
+    "static/media/quates.f4f61295.jpg": "/static/media/quates.f4f61295.jpg",
+    "static/media/sanskar.fe906cd3.jpg": "/static/media/sanskar.fe906cd3.jpg",
+    "static/media/slider1.247351ca.jpg": "/static/media/slider1.247351ca.jpg",
+    "static/media/slider2.2ed4c4e8.jpg": "/static/media/slider2.2ed4c4e8.jpg",
+    "static/media/slider3.b5f3aa2e.jpg": "/static/media/slider3.b5f3aa2e.jpg",
+    "static/media/tribute.a9b14c95.jpg": "/static/media/tribute.a9b14c95.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.410935ff.js",
+    "static/css/2.b275ccef.chunk.css",
+    "static/js/2.d24e8609.chunk.js",
+    "static/css/main.a34dbc92.chunk.css",
+    "static/js/main.cc41c554.chunk.js"
+  ]
+}
